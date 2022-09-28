@@ -2,7 +2,7 @@
 
 ForgeCert uses the [BouncyCastle C# API](https://www.bouncycastle.org/csharp/index.html) and a stolen Certificate Authority (CA) certificate + private key to forge certificates for arbitrary users capable of authentication to Active Directory.
 
-This attack is codified as `DPERSIST1` in our ["Certified Pre-Owned" whitepaper](https://specterops.io/assets/resources/Certified_Pre-Owned.pdf). This code base was released ~45 days after the whitepaper was published.
+This attack is codified as `DPERSIST1` in our ["Certified Pre-Owned" whitepaper]( https://posts.specterops.io/certified-pre-owned-d95910965cd2). This code base was released ~45 days after the whitepaper was published.
 
 [@tifkin_](https://twitter.com/tifkin_) is the primary author of ForgeCert.
 
